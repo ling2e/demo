@@ -1,4 +1,4 @@
-# node with Google Cloud(NOT DONE YET)
+# node with Google Cloud
 ----------------
 This is a project first time using Google Cloud in nodejs .
 
